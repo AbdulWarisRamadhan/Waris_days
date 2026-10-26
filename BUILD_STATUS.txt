@@ -1,0 +1,3 @@
+Status paket: dibuat dari preview Waris Days saat ini.
+Pemeriksaan statis: dijalankan saat proses pembuatan paket.
+Build APK final: harus dijalankan oleh GitHub Actions karena Android SDK tidak tersedia di lingkungan pembuatan paket ini.
